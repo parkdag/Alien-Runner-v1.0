@@ -45,13 +45,13 @@ T       → Start Game
 
 Technologies
 
-Unity 6
-C#
-Unity Animator
-Unity UI (uGUI)
-Unity Audio System
-Coroutines
-Git
+✅ Unity 6
+✅ C#
+✅ Unity Animator
+✅ Unity UI (uGUI)
+✅ Unity Audio System
+✅ Coroutines
+✅ Git
 
 
 What I learned
