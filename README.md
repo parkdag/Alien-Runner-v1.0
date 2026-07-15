@@ -1,5 +1,9 @@
 Alien Runner - Endless Runner
 
+
+![Gameplay GIF](Screenshots/gameplay.gif)
+
+
 Alien Runner is my first complete Unity portfolio project, developed from scratch to strengthen my gameplay programming and Unity development skills.
 The project focuses on creating a polished endless runner experience with clean gameplay systems, UI, animation, audio, and game flow.
 
